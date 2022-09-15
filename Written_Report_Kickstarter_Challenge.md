@@ -16,14 +16,14 @@ The purpose of this analysis is to present the relationship of theater outcome a
 
 The data of launch dates was extracted to see in which month was a good month to start for Louise’s play Fever campaign to be successful.  The month of May and June were good months to start the fundraising campaign for theater.  The number starts decreasing toward the end of year.  The outcomes trend of both successful and failed are similar, and their up and down movements are pararell each other.  
 
-- ![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/commit/5232ee70c7e567526e7d3547a7e717cf37f930d7#diff-0b8e3c007cc8ce734ad4fd87d003d3e92beca4cc8591f87b46566606c1b42498)
+- ![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/commit/5232ee70c7e567526e7d3547a7e717cf37f930d7#diff-0b8e3c007cc8ce734ad4fd87d003d3e92beca4cc8591f87b46566606c1b42498/blob/main/assets/images/electrocat.png?raw=true)
 
 
 ### Analysis of Outcomes Based on Goals
 
 Secondly, the outcomes of successful, failed and canceled were counted in each goal amount range.  The goal range from $1,000 to $4,000 has the highest number for success in this campaign follow by the range of less than $1,000.  Interestingly, the goal amount is not necessary to be set at the lowest amount for the campaign success.  It is obvious that the higher amount the goal amount is set, the lower the successful number becomes as well as the failed number.  
 
--![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/commit/5232ee70c7e567526e7d3547a7e717cf37f930d7#diff-9e2043a65755e89e2cdea642920c719ba42e6aff1e0690e207c0f11d9fedaf7d)
+- ![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/commit/5232ee70c7e567526e7d3547a7e717cf37f930d7#diff-9e2043a65755e89e2cdea642920c719ba42e6aff1e0690e207c0f11d9fedaf7d/blob/main/assets/images/electrocat.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
