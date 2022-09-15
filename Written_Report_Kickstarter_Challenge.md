@@ -22,7 +22,7 @@ The data of launch dates was extracted to see in which month was a good month to
 
 Secondly, the outcomes of successful, failed and canceled were counted in each goal amount range.  The goal range from $1,000 to $4,000 has the highest number for success in this campaign follow by the range of less than $1,000.  Interestingly, the goal amount is not necessary to be set at the lowest amount for the campaign success.  It is obvious that the higher amount the goal amount is set, the lower the successful number becomes as well as the failed number.  
 
-- ![This is an image](./Resouces/Outcome\vs\Goals.png)
+- ![This is an image](./Resouces/Outcome\ vs\ Goals.png)
 
 ### Challenges and Difficulties Encountered
 
