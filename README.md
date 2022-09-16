@@ -2,13 +2,13 @@
 
 ## Overview of Project
 
-The campaign of Louise's play Fever has been meeting its fundraising goal in a short period of time.  This analysis was conducted using the datasets of the campaign's launch dates and their funding goals to lead other fundraising camplaigns to the successful outcome as well. 
+The campaign of Louise's play Fever has been meeting its fundraising goal in a short period of time.  This analysis was conducted using the datasets of the campaign's launch dates and their funding goal amoount to lead other fundraising camplaigns to the successful outcome as well. 
 
 ### Purpose
 
 The purpose of this analysis is to present the relationship of theater outcome and the campaign's launch dates, and the number of outcome and the funding goals amount by collecting the data from the campaign of theater/plays. This analysis was conducted to lead the other campaigns to the successsul outcome in the short period of time.  
 
-- The analysis is [GitHub Pages](https://github.com/tomoko1T/Kickstarter-analysis)
+- The analysis is found [GitHub Pages](https://github.com/tomoko1T/Kickstarter-analysis)
 
 ## Analysis and Challenges
 
@@ -16,13 +16,13 @@ The purpose of this analysis is to present the relationship of theater outcome a
 
 The data of launch dates was extracted to see in which month was a good month to start for Louise’s play Fever campaign to be successful.  The month of May and June were good months to start the fundraising campaign for theater.  The number starts decreasing toward the end of year.  The outcomes trend of both successful and failed are similar, and their up and down movements are pararell each other.  
 
-- 
+![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Secondly, the outcomes of successful, failed and canceled were counted in each goal amount range.  The goal range from $1,000 to $4,000 has the highest number for success in this campaign follow by the range of less than $1,000.  Interestingly, the goal amount is not necessary to be set at the lowest amount for the campaign success.  It is obvious that the higher amount the goal amount is set, the lower the successful number becomes as well as the failed number.  
 
-- ![This is an image](./Resouces/Outcome\ vs\ Goals.png)
+![This is an image](https://github.com/tomoko1T/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
