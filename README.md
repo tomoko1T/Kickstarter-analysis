@@ -8,7 +8,7 @@ The campaign of Louise's play Fever has been meeting its fundraising goal in a s
 
 The purpose of this analysis is to present the relationship of theater outcome and the campaign's launch dates, and the number of outcome and the funding goals amount by collecting the data from the campaign of theater/plays. This analysis was conducted to lead the other campaigns to the successsul outcome in the short period of time.  
 
-- The analysis is found [GitHub Pages](https://github.com/tomoko1T/Kickstarter-analysis)
+- The analysis is found [GitHub Pages]([https://github.com/tomoko1T/Kickstarter-analysis](https://github.com/tomoko1T/Kickstarter-analysis/blob/main/Copy%20of%20Kickstarter_Challenge.xlsx))
 
 ## Analysis and Challenges
 
